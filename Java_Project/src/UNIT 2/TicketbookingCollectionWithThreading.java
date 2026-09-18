@@ -1,5 +1,6 @@
 import java.util.*;
 
+//Collection with Multithreading
 public class TicketbookingCollectionWithThreading {
     public static void main(String[] args) {
 
